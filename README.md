@@ -1,3 +1,4 @@
 # Apnacollege-demo
 This is first Git Repository
-Author - Amit Choudhari
+<br>
+Author - Amit Choudhari (Apna College)
